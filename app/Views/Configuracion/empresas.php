@@ -1,6 +1,6 @@
 <main>
   <div class="container-fluid">
-    <h3 class="mt-4" align="center">EMPRESAS</h3>
+    <h3 class="mt-4" align="center">Empresas</h3>
     <div class="alert alerta-fijo hidden" role="alert" id="alerta"></div>
 
     <div class="container-fluid">

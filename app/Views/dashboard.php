@@ -33,22 +33,24 @@
                     </div>
                     <div class="col-xl-3 col-md-6">
                       <div class="card bg-danger text-white mb-4">
-                        <div class="card-body">Afecto a corte</div>
+                        <div class="card-body">Generar Estaciones</div>
                         <div class="card-footer d-flex align-items-center justify-content-between">
                           <a class="small text-white stretched-link" id="card_afecto_corte" href="#">Ver Detalles</a>
                           <div class="small text-white"><i class="fas fa-angle-right"></i></div>
                         </div>
                       </div>
                     </div>
+
                     <div class="col-xl-3 col-md-6">
-                      <div class="card bg-light text-dark mb-4">
-                        <div class="card-body"><img src="<?php echo base_url(); ?>/imagenes/gestor_icon.png" width="100%"></div>
+                      <div class="card bg-fil text-white mb-4">
+                        <div class="card-body">Reportes</div>
                         <div class="card-footer d-flex align-items-center justify-content-between">
-                          <a class="small text-dark stretched-link" target="_blank" href="https://gestiondefilas.cl">Gestión de Filas</a>
-                          <div class="small text-dark"><i class="fas fa-angle-right"></i></div>
+                          <a class="small text-white stretched-link" id="card_reportes" href="#">Ver Detalles</a>
+                          <div class="small text-white"><i class="fas fa-angle-right"></i></div>
                         </div>
                       </div>
                     </div>
+                    
                   </div>
                 </div>
               </div>
